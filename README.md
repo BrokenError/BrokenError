@@ -15,3 +15,4 @@
 [![VK](https://img.shields.io/badge/-Vkontakte-010006?style=for-the-badge&logo=VK&logoColor=4C75A3)](https://vk.com/brokenerr0r)
 [![Instagram](https://img.shields.io/badge/-Instagram-010006?style=for-the-badge&logo=instagram)](https://instagram.com/slmple_max?igshid=YmMyMTA2M2Y=)
 [![Codewars](https://img.shields.io/badge/-Codewars-010006?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/BrokenError)
+[![LeetCode](https://leetcode.com/u/BrokenError)]
